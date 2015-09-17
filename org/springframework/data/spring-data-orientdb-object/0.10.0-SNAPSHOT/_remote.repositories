@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Sep 17 08:52:27 UTC 2015
+spring-data-orientdb-object-0.10.0-SNAPSHOT.pom>=
+spring-data-orientdb-object-0.10.0-SNAPSHOT.jar>=
+spring-data-orientdb-object-0.10.0-SNAPSHOT-sources.jar>=
